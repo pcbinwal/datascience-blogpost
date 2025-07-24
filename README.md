@@ -32,9 +32,9 @@ The project has following functional objectives/features:
 - Create the virtual environment
 - Install dependent packages
 
-## 6. Files Descriotions
+## 6. Files Descriptions
 Listed below are all the files and their respective purpose and description which are part of this project's repository
-- readme file
+- readme file (README.md)
 - jupitor notebook
 
 ## 7. Licensing, Authors & Acknowledgement

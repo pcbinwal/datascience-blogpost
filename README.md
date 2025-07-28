@@ -29,13 +29,20 @@ The project has following functional objectives/features:
 - In the final step project Validates its performance using various metrics.
 
 ## 5. Installation 
-- Create the virtual environment
-- Install dependent packages
+- Create a folder DSBlog and change working directory to that
+- Create a virtual environment in side the directory (where you will be running the notebook.)
+- Activate the virtual environment
+- Install jupyter using command ' pip3 install jupyter' inside your activated python virtual envirlonment
+- Copy the Notebook file in this folder 
+- Extract the data file by unzipping it and move it to the subfolder "data" where 
+- Inside notebook, uncomment the first shell ("Install Packages Section") to install all required packages.
+- Your project code is ready from inside the notebook.
 
 ## 6. Files Descriptions
 Listed below are all the files and their respective purpose and description which are part of this project's repository
 - readme file (README.md)
 - jupitor notebook
+- Data File (Zip) -> to be extracted to data subfolder. 
 
 ## 7. Licensing, Authors & Acknowledgement
 #### Licensing:
